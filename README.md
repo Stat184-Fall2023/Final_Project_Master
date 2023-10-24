@@ -1,4 +1,4 @@
-# Stat 184-Hatfield (Fall 2022) Final Project
+# Stat 184-Hatfield (Fall 2023) Final Project
 
 This repo will serve as the template file for the course project. Further, this README file will contain the project specifications (details), check points, and the list of learning outcomes being assessed. Be sure to read through all portions of the README carefully.
 
@@ -15,7 +15,7 @@ Use the following checklist to ensure that you have completed all of the tasks.
 - [ ] Create a repo using this repo as the template. Name your repo "FP_Name1_Name2_Name3" where Name# are the team member's names.
 - [ ] Make sure that each team member has access to the repo.
 - [ ] Come up with a topic and set of research questions your team will explore.
-- [ ] Make a plan for your work. (Target Completion: Friday, Nov. 18, 2022)
+- [ ] Make a plan for your work. (Target Completion: <mark>Friday, Nov. 18, 2022</mark>)
 - [ ] Locate appropriate data sources for your project.
   - [ ] Your main data source may __not__ be one that we used in class nor be found in any R package.
   - [ ] Supplementary data sources may come from anywhere.
@@ -39,10 +39,10 @@ Use the following checklist to ensure that you have completed all of the tasks.
 - [ ] Use GitHub to share changes and edits; there should be multiple commits to your repo and at least 2 by each team member. You'll need to give Neil (neilhatfield) access to your repo.
 - [ ] __Optional:__ Your group may also wish to use `trackdown`
 - [ ] You'll submit an output file of your choice, the RMD, and a link to your GitHub Repo to the appropriate submission portal in Canvas.
-    - __Due Date: Wednesday, Dec. 14th, 2022 by 11:59pm ET__
+    - __Due Date: <mark>Wednesday, Dec. 14th, 2022 by 11:59pm ET</mark>__
 - [ ] During the last week of classes (Dec. 7th and Dec. 9th), your group will need to share a short presentation 3-5 minutes of what you've investigated and learned.
 - [ ] Each member of the team needs to complete Peer/Self Evaluations using the included Evaluation template and upload the knitted PDF to the appropriate submission portal in Canvas.
-    - __Due Date: Thursday, Dec. 15th, 2022 by 11:59pm ET__
+    - __Due Date: <mark>Thursday, Dec. 15th, 2022 by 11:59pm ET</mark>__
 - [ ] Update this README file to check off all elements you have completed by placing an x inside the square brackets: [x] 
 
 ## Learning Objectives and Outcomes Assessed
