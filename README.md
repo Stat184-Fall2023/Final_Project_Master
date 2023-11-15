@@ -15,7 +15,7 @@ Use the following checklist to ensure that you have completed all of the tasks.
 - [ ] Create a repo using this repo as the template. Name your repo "FP_Name1_Name2_Name3" where Name# are the team member's names.
 - [ ] Make sure that each team member has access to the repo.
 - [ ] Come up with a topic and set of research questions your team will explore.
-- [ ] Make a plan for your work. (Target Completion: <mark>Friday, Nov. 18, 2022</mark>)
+- [ ] Make a plan for your work. (Target Completion: <mark>Wednesday, Nov. 29, 2023</mark>)
 - [ ] Locate appropriate data sources for your project.
   - [ ] Your main data source may __not__ be one that we used in class nor be found in any R package.
   - [ ] Supplementary data sources may come from anywhere.
@@ -36,13 +36,14 @@ Use the following checklist to ensure that you have completed all of the tasks.
   - [ ] Have narrative text explaining every data visualization and table as well as setting a framework.
   - [ ] All code should be written according to a Style Guide of your choice. List this Style Guide as a code comment in your first code chunk.
   - [ ] __Optional:__ For those who want to challenge themselves further, feel free to include a section on using other statistical methods such as hypothesis testing, regression, ANOVA, or machine learning--see Chapter 18 of the Data Computing eBook.
-- [ ] Use GitHub to share changes and edits; there should be multiple commits to your repo and at least 2 by each team member. You'll need to give Neil (neilhatfield) access to your repo.
+- [ ] Use GitHub to share changes and edits; there should be multiple commits to your repo and at least 2 by each team member. Ensure that your instructor has access to your repo
 - [ ] __Optional:__ Your group may also wish to use `trackdown`
 - [ ] You'll submit an output file of your choice, the RMD, and a link to your GitHub Repo to the appropriate submission portal in Canvas.
-    - __Due Date: <mark>Wednesday, Dec. 14th, 2022 by 11:59pm ET</mark>__
-- [ ] During the last week of classes (Dec. 7th and Dec. 9th), your group will need to share a short presentation 3-5 minutes of what you've investigated and learned.
+    - __Due Date for Neil's Class: Wednesday, Dec. 13th, 2023 by 11:59pm ET__
+    - __Due Date for Xinyue's Class: Monday, Dec. 11th, 2023 by 5:00pm ET__
+- [ ] During the last week of classes (Dec. 6th and Dec. 8th), your group will need to share a short presentation 3-5 minutes of what you've investigated and learned so far.
 - [ ] Each member of the team needs to complete Peer/Self Evaluations using the included Evaluation template and upload the knitted PDF to the appropriate submission portal in Canvas.
-    - __Due Date: <mark>Thursday, Dec. 15th, 2022 by 11:59pm ET</mark>__
+    - __Due Date: Thursday, Dec. 14th, 2023 by 11:59pm ET__
 - [ ] Update this README file to check off all elements you have completed by placing an x inside the square brackets: [x] 
 
 ## Learning Objectives and Outcomes Assessed
