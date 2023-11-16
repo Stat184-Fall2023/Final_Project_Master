@@ -40,7 +40,6 @@ Use the following checklist to ensure that you have completed all of the tasks.
 - [ ] __Optional:__ Your group may also wish to use `trackdown`
 - [ ] You'll submit an output file of your choice, the RMD, and a link to your GitHub Repo to the appropriate submission portal in Canvas.
     - __Due Date for Neil's Class: Wednesday, Dec. 13th, 2023 by 11:59pm ET__
-    - __Due Date for Xinyue's Class: Monday, Dec. 11th, 2023 by 5:00pm ET__
 - [ ] During the last week of classes (Dec. 6th and Dec. 8th), your group will need to share a short presentation 3-5 minutes of what you've investigated and learned so far.
 - [ ] Each member of the team needs to complete Peer/Self Evaluations using the included Evaluation template and upload the knitted PDF to the appropriate submission portal in Canvas.
     - __Due Date: Thursday, Dec. 14th, 2023 by 11:59pm ET__
